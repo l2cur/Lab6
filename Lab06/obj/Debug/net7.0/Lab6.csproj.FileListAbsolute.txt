@@ -1,0 +1,17 @@
+/Users/maximkukuruz/Projects/Lab06/Lab06/bin/Debug/net7.0/Lab6
+/Users/maximkukuruz/Projects/Lab06/Lab06/bin/Debug/net7.0/Lab6.deps.json
+/Users/maximkukuruz/Projects/Lab06/Lab06/bin/Debug/net7.0/Lab6.runtimeconfig.json
+/Users/maximkukuruz/Projects/Lab06/Lab06/bin/Debug/net7.0/Lab6.dll
+/Users/maximkukuruz/Projects/Lab06/Lab06/bin/Debug/net7.0/Lab6.pdb
+/Users/maximkukuruz/Projects/Lab06/Lab06/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.csproj.AssemblyReference.cache
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.AssemblyInfoInputs.cache
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.AssemblyInfo.cs
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.csproj.CopyComplete
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.dll
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/refint/Lab6.dll
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.pdb
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/Lab6.genruntimeconfig.cache
+/Users/maximkukuruz/Projects/Lab06/Lab06/obj/Debug/net7.0/ref/Lab6.dll
